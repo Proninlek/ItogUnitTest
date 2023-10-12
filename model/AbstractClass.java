@@ -1,4 +1,4 @@
-package ItogUnit.model;
+package Itog.model;
 
 public abstract class AbstractClass {
     int[] array;
